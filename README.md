@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @adammansson, fourth year CS student at LTH (Lund, Sweden).
+- 👋 Hi, I’m @adammansson, fifth year CS student at LTH (Lund, Sweden).
 - 👀 I'm interested in learning more about programming, computers and networking.
 - 🌱 I'm currently learning fullstack webdev in my spare time.
